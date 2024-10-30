@@ -1,0 +1,6 @@
+wife:ប្រពន្ធ
+husband:ប្តី
+phone:ទូរស័ព្ទ
+coconut:ដូង
+apple:ថ្លែប៉ោម
+crocodile:ក្រពើ
